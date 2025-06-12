@@ -4,31 +4,20 @@ This is a source code repository to maintain Aladdin365 and Auction codes.
 itdigitalwing/sourcerepo-aladdin365-common
 itdigitalwing/sourcerepo-aladdin365-mobile
 itdigitalwing/sourcerepo-aladdin365-microservices
-// In-House Team's Development Repositories
 
-// 
-    itdigitalwing/sourcerepo-aladdin365-common
-    
-    itdigitalwing/sourcerepo-aladdin365-mobile
-    EAuction_MobileResponsive
-    itdigitalwing/EAuction_MobileResponsive
-    aladdin365-app
-    itdigitalwing/aladdin365-app
-    aladdin365-commons
-    itdigitalwing/aladdin365-commons
-    aladdin365-service
-    itdigitalwing/aladdin365-service
-    aladdin-microservices
-    anjamerica/aladdin-microservices
+// Aladdin365 - In-House Team's Development Repositories
+itdigitalwing/aladdin365-commons
+itdigitalwing/aladdin365-app
+itdigitalwing/aladdin365-service
+itdigitalwing/aladdin365-uat
 
-    aladdin365-mobile
-    anjamerica/aladdin365-mobile
-    sourcerepo-aladdin365-microservices
-    
-    TEXCOM-WEB
-    KasoveAdmin/TEXCOM-WEB
-    aladdin365-uat
-    itdigitalwing/aladdin365-uat
-    aladdin-common
-    anjamerica/aladdin-common
+// Aladdin365 - Source code shared by ANJ from their repo
+anjamerica/aladdin-common
+anjamerica/aladdin365-mobile
+anjamerica/aladdin-microservices
 
+// E-Auctions repo shared by Kasove team from their repository
+KasoveAdmin/TEXCOM-WEB
+
+itdigitalwing/EAuction_MobileResponsive
+ 
